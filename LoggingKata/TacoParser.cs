@@ -11,7 +11,7 @@
         {
             logger.LogInfo("Begin parsing");
 
-            // Take your line and use line.Split(',') to split it up into an array of strings, separated by the char ','
+            // Take your line and split it up into an array of strings, separated by the char ','
             var cells = line.Split(',');
 
             // If your array.Length is less than 3, something went wrong

@@ -8,7 +8,7 @@ namespace LoggingKata.Test
         [Fact]
         public void ShouldDoSomething()
         {
-            // TODO: Complete Something, if anything
+            // TODO: 
 
             //Arrange
             var tacoParser = new TacoParser();
